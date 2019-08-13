@@ -2,7 +2,7 @@ body {
   background: DimGray;
 }
 h1 {
-  font-align: center;
-  font-size: 200px;
+  text-align: center;
+  font-size: 150px;
   color: MediumSeaGreen;
 }
