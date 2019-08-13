@@ -5,6 +5,10 @@ h1 {
   text-align: center;
   font-size: 150px;
   color: MediumSeaGreen;
+  padding: 10px;
+}
+h4 {
+  padding: 1px;
 }
 img {
   height: 200px;
