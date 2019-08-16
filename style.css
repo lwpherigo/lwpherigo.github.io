@@ -2,14 +2,10 @@ body {
   background: DimGray;
 }
 h1 {
-  width: 100%;
-  border: 4px solid black;
+  border-width: medium 10px thick 15px;
   text-align: center;
   font-size: 115px;
   color: MediumSeaGreen;
-  padding: 3px;
-  padding-left: 3px;
-  padding-right: 3px;
 }
 h4 {
   text-align: center;
