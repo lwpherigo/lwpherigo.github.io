@@ -5,13 +5,14 @@ h1 {
   width: 100%;
   border: 4px solid black;
   text-align: center;
-  font-size: 150px;
+  font-size: 115px;
   color: MediumSeaGreen;
   padding: 3px;
   padding-left: 3px;
   padding-right: 3px;
 }
 h4 {
+  text-align: center;
   padding: 1px;
 }
 img {
