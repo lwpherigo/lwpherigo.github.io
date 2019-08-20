@@ -17,7 +17,6 @@ h1 {
   font-famiy: Copperplate;
   font-size: 115px;
   color: #216CC1;
-  padding: 0px 10px;
 }
 
 h4 {
@@ -26,6 +25,5 @@ h4 {
 }
 
 img {
-  height: 200px;
-  padding-right: 100px;
+  height: 175px;
 }
