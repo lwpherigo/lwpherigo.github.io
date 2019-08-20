@@ -14,15 +14,10 @@ body {
   background: DimGray;
 }
 
-* {
-  box-sizing: border-box;
-}
-
 h1 {
-  border: 3px solid black;
   text-align: center;
   font-size: 115px;
-  color: MediumSeaGreen;
+  color: #216CC1;
 }
 
 h4 {
