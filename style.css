@@ -1,9 +1,22 @@
+#container {
+  margin-top: 20px;
+  margin-left: 200px;
+  margin-right: 200px;
+  
+  padding: 10px 150px;
+  
+  border-radius: 15px;
+  background-color: white;
+}  
+
 body {
   background: DimGray;
 }
+
 * {
   box-sizing: border-box;
 }
+
 h1 {
   border: 3px solid black;
   width: 900px;
@@ -11,10 +24,12 @@ h1 {
   font-size: 115px;
   color: MediumSeaGreen;
 }
+
 h4 {
   text-align: center;
   padding: 1px;
 }
+
 img {
   height: 200px;
   padding-right: 100px;
