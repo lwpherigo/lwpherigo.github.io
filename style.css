@@ -1,5 +1,5 @@
 #container {
-  margin-left: 150px;
+  margin-left: 200px;
   margin-right: 200px;
   
   padding-right: 150px;
@@ -9,7 +9,7 @@
 }  
 
 body {
-  background: #216cc1;
+  background: DimGray;
 }
 
 h1 {
