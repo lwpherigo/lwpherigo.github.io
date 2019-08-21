@@ -13,6 +13,10 @@
   background-position: center;
   height: 285px;
 }
+.caption {
+  font-color: white;
+  float: left;
+}
 body {
   background: DimGray;
 }
@@ -25,12 +29,7 @@ h1 {
   font-size: 70px;
   color: #216CC1;
 }
-
 h4 {
   text-align: center;
   padding: 1px;
-}
-
-img {
-  height: 285px;
 }
