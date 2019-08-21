@@ -13,10 +13,10 @@
   background-position: center;
   height: 285px;
 }
-.caption {
-  background-color: black;
+.bottom-left {
+  background-color: white;
   font-family: verdana;
-  color: white;
+  color: black;
 }
 body {
   background: DimGray;
