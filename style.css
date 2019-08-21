@@ -14,7 +14,7 @@
   height: 285px;
 }
 .caption {
-  font-color: white;
+  color: white;
   float: left;
 }
 body {
@@ -25,8 +25,8 @@ h1 {
   font-family: Tahoma, Verdana, Segoe, sans-serif;  
   font-variant: normal; 
   font-weight: 700; 
-  line-height: 26.4px; 
-  font-size: 70px;
+  line-height: 25px; 
+  font-size: 60px;
   color: #216CC1;
 }
 h4 {
