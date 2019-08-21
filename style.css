@@ -35,5 +35,9 @@ h3 {
   color: black;
 }
 .history {
+  font-family: Tahoma;
   color: red;
+}
+.experience {
+  font-size: 12px;
 }
