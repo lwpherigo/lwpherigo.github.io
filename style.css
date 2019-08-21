@@ -14,11 +14,12 @@
   height: 285px;
 }
 .caption {
+  bottom: 20px;
+  left: 20px;
   background-color: black;
   position: absolute;
   font-family: verdana;
   color: white;
-  padding-left: 3px;
 }
 body {
   background: DimGray;
