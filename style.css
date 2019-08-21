@@ -6,12 +6,16 @@
   padding: 10px 150px 20px 150px;
   
   background-color: white;
-}  
-
+}
+.image {
+  background-image: url("https://bit.ly/2HfjEV8");
+  background-size: cover;
+  background-position: center;
+  height: 285px;
+}
 body {
   background: DimGray;
 }
-
 h1 {
   text-align: center;
   font-family: Tahoma, Verdana, Segoe, sans-serif;  
