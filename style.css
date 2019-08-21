@@ -6,6 +6,7 @@
   padding: 10px 150px 20px 150px;
   
   background-color: white;
+  position: relative;
 }
 .image {
   background-image: url("https://bit.ly/2HfjEV8");
