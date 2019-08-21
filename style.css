@@ -7,19 +7,8 @@
   
   background-color: white;
 }
-.image {
-  background-image: url("https://bit.ly/2HfjEV8");
-  background-size: cover;
-  background-position: center;
+img {
   height: 285px;
-}
-.bottom-left {
-  position: absolute;
-  bottom: 8px;
-  left: 16px;
-  background-color: white;
-  font-family: verdana;
-  color: black;
 }
 body {
   background: DimGray;
@@ -36,4 +25,9 @@ h1 {
 h4 {
   text-align: center;
   padding: 1px;
+}
+h3 {
+  background-color: white;
+  font-family: verdana;
+  color: black;
 }
